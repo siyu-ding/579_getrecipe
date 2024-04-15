@@ -1,6 +1,6 @@
 {
+  "homepage": "http://siyu-ding.github.io/579_getrecipe",
   "devDependencies": {
-    "homepage": "http://siyu-ding.github.io/579_getrecipe",
     "gh-pages": "^6.1.1"
   },
   "scripts": {
